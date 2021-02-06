@@ -1,0 +1,276 @@
+
+#top
+	img
+		{
+		text-align:center;
+		width: 250px;
+		height: auto;
+		float: left;
+		padding-left: 18em;
+		}
+		
+#top-text
+		{
+		font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+		font-size: 50px;
+		padding-top: 25px;
+		margin-left:10px;
+		float: bottom;
+		}
+#first-bar
+		{
+		border: solid 2px;
+		background-color: #4AB3D2;
+		border-radius: 20px;		
+		}
+		
+#mail_logo
+	img	
+		{
+		width: 70px;
+		padding-left:100px;
+		padding-top:55px;
+		float:left;
+		
+	
+		}
+#mail-information
+		{
+		margin-top:75px;	
+		font-size:25px;
+		float: left;
+		margin-left:10px;
+		}
+
+#mail-information
+	a:link	{
+		text-decoration: none;
+		color:black;
+		}
+		
+#presentation
+		{
+			margin-left:280px;
+			margin-top:-25px;
+			font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif;
+			font-size:35px;
+			float:left;
+				
+		}
+
+#phone_logo
+	img
+		{
+		width:50px;
+		padding-left:220px;
+		padding-top:60px;
+		border-radius: 2px;
+		float:left;
+		}
+#phone-information
+		{
+		padding-top:50px;	
+		font-size:25px;
+		text-align:right;
+		margin-right:50px;
+		}
+
+
+#list
+	ul	{
+		list-style:none;
+		}
+	
+#school_logo
+	img
+		{
+		width: 75px;
+		height: auto;
+		float: left;
+		margin-left:-10px;
+		}	
+		
+#school-information
+		{
+		font-size:40px;	
+		margin-left:2em;
+		margin-top:1em;
+		padding-top:15px;
+		}
+#language_logo
+	img
+		{
+		width: 70px;
+		height: auto;
+		margin-left:-80px;
+		margin-top:80px;
+		float: left;
+		}	
+		
+#language-information
+		{
+		list-style:none;
+		font-size:40px;	
+		margin-left:2em;
+		margin-top:2em;
+		padding-top:15px;
+		}
+#language-information
+	ul
+		{
+		list-style:none;
+		}
+		
+#location_logo
+	img
+		{
+		padding-top:80px;
+		width: 75px;
+		height: auto;
+		margin-left:-25px;
+		float: left;
+		}	
+		
+#location-information
+		{
+		list-style:none;
+		font-size:40px;	
+		margin-left:2em;
+		margin-top:2em;
+		padding-top:15px;
+		}
+#location-information
+	ul
+		{
+		list-style:none;
+		}
+		
+#deplacement_logo
+	img
+		{
+		padding-top:85px;
+		width: 80px;
+		height: auto;
+		float: left;
+		margin-left:-75px;
+		}	
+		
+#deplacement-information
+		{
+		list-style:none;
+		font-size:40px;	
+		margin-left:2em;
+		margin-top:2em;
+		padding-top:15px;
+		padding-bottom:10px;
+		}
+#deplacement-information
+	ul
+		{
+		list-style:none;
+		}
+		
+#parcours
+		{
+		border: solid 2px;
+		background-color: #4AB3D2;
+		border-radius: 20px;
+		font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif;
+		font-size:35px;
+		text-align:center;
+		}
+#stage
+		{
+		list-style:none;
+		font-size:40px;	
+		}
+#stage
+	a:link
+		{
+		color:black;
+		}
+		
+#brevet
+		{
+		list-style:none;
+		font-size:40px;	
+		}
+#brevet
+	a:link
+		{
+		color:black;
+		}
+		
+#terminale
+		{
+		list-style:none;
+		font-size:40px;
+		padding-bottom:35px;
+		}
+#terminale
+	a:link
+		{
+		color:black;
+		}
+		
+#cpff
+		{
+		border: solid 2px;
+		background-color: #4AB3D2;
+		border-radius: 20px;
+		font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif;
+		font-size:35px;
+		text-align:center;
+		}
+		
+#table-cpff
+	table {
+		border-collapse:collapse;
+		width:90%;
+		margin-top:15px;
+			}
+#table-cpff
+	th, td {
+		border:1px solid black;
+		width:50%;
+		text-align:center;
+		font-size:30px;
+			}
+#table-cpff
+	td {
+		text-align:center;
+ }
+
+#competences
+		{
+		margin-top:20px;
+		border: solid 2px;
+		background-color: #4AB3D2;
+		border-radius: 20px;
+		font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif;
+		font-size:35px;
+		text-align:center;
+		}
+		
+#contents-competence
+		{
+		text-indent:15px;
+		font-size:40px;
+		}
+		
+#conclusion
+		{
+		margin-top:20px;
+		border: solid 2px;
+		background-color: #4AB3D2;
+		border-radius: 20px;
+		font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif;
+		font-size:35px;
+		text-align:center;
+		}
+		
+#contents-conclusion
+		{
+		text-indent:15px;
+		font-size:40px;
+		}
